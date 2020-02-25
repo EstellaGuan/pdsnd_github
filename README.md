@@ -1,17 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+24th-Feb-2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare Analysis
 
 ### Description
-Describe what your project is about and what it does
+Analyze Bikeshare data and visualize with R
 
 ### Files used
-Include the files used
+Bikeshare.ipynb
+.gitignore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.statmethods.net/
+https://stackoverflow.com/
 
 ##Update
 ##Another Update
