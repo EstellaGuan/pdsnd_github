@@ -15,8 +15,8 @@ Bikeshare.ipynb
 https://www.statmethods.net/
 https://stackoverflow.com/
 
-##Update
-##Another Update
-##One more Update
-##Additioanl Update
+## Update
+## Another Update
+## One more Update
+## Additioanl Update
 
